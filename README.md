@@ -1,0 +1,1 @@
+# Media Query Used In Picture Element For Two Different Resolution Screen Size.
